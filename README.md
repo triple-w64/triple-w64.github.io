@@ -1,2 +1,5 @@
 # triple-w64.github.io
-A learning blog
+ All about My learning steps:
+ {
+Segment & Reconstruction Of Ultrasonic Medic, Diagnosis
+ }
